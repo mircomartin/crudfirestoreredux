@@ -1,5 +1,5 @@
 Les dejo la direccion del Proyecto funcionando:
-https://mircrudreduxfirebase.netlify.app/auth/login
+https://mircrudreduxfirebase.netlify.app/
 
 
 
